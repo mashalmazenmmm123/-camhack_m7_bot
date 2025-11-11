@@ -14,8 +14,8 @@ logging.basicConfig(
 # استبدل بـ API Token الخاص بك
 TOKEN = "7968240446:AAH0dxhN5YOmpWzYpUGeyPjdq5NIm0peK18"
 # استبدل باسم مستخدمك على GitHub
-GITHUB_USERNAME = "YOUR_GITHUB_USERNAME"
-GITHUB_PAGES_URL = f"https://{GITHUB_USERNAME}.github.io/free-recharge-bot"
+GITHUB_USERNAME = "mashalmazenmmm123"
+GITHUB_PAGES_URL = f"https://github.io/mashalmazenmmm123/-camhack_m7_bot"
 
 def init_database():
     """تهيئة قاعدة البيانات"""
